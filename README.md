@@ -2,10 +2,12 @@
 A web-based system under Client-Server architecture using MVC design pattern.
 
 ## Languages & Tools
-<img src="https://www.php.net/images/logos/new-php-logo.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" style="margin-left:10px;margin-bottom:5px;" width=70px/>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+<p float="left">
+    <img src="https://www.php.net/images/logos/new-php-logo.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" style="margin-left:10px;margin-bottom:5px;" width=70px/>
+</p>
 
 ## Features
 * Routing by the entry file is named as index.php for SEO-friendly URLs.
