@@ -17,7 +17,7 @@ A web-based system under Client-Server architecture using MVC design pattern.
 * Find-store feature by integrating Google Maps API.
 
 ## Preview
-Products page            |            Products page            |  Stores page
+Home page            |            Products page            |  Stores page
 :-------------------------:|:-------------------------:|:-------------------------:
 [![home](https://github.com/nmloc/furniture-store-web/assets/49911991/68ad395c-e4c4-4d52-b675-2cd2e29f5379)](https://github.com/nmloc/furniture-store-web/assets/49911991/68ad395c-e4c4-4d52-b675-2cd2e29f5379)  |  [![products](https://github.com/nmloc/furniture-store-web/assets/49911991/5fe08aa4-101b-45e2-ab61-0448dcadff58)](https://github.com/nmloc/furniture-store-web/assets/49911991/5fe08aa4-101b-45e2-ab61-0448dcadff58)  |  [![stores](https://github.com/nmloc/furniture-store-web/assets/49911991/595e582a-0bfc-4f01-be76-0201ce2f4bac)](https://github.com/nmloc/furniture-store-web/assets/49911991/595e582a-0bfc-4f01-be76-0201ce2f4bac)
 
